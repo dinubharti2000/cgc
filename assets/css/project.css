@@ -7,9 +7,10 @@
     margin-top: 0 !important;
 }
 
-.row{
-    justify-content: center;
-    gap: 2% !important;
+.project-row {
+  justify-content: center !important;
+  gap: 2.5% !important;
+  display: flex;
 }
 .project h1{
     font-size: 40px;
@@ -53,7 +54,7 @@
     border-radius: 10px;
     box-shadow: 5px 10px 8px #888888;
     display: block;
-    margin-bottom: 50px !important;
+    margin-bottom: 40px !important;
 }
 
 
@@ -94,8 +95,8 @@
 
   .project-container{
     display: flex;
-    margin-top: 100px;
-    padding-top: 50px;
+
+    padding-top: 100px;
     padding-bottom: 50px;
     background-image: url(../images/dot.png)
 

@@ -28,7 +28,7 @@
         <h1>Our Product</h1>
         <div>
             <div class="container">
-                <div class="product-row">
+                <div class="row">
                     <div class="col-sm-3">
                         <div class="category-main">
                             <img src="./assets/images/banner-4.jpeg" alt="" srcset="">
@@ -64,7 +64,7 @@
 
             </div>
             <div class="container">
-                <div class="product-row">
+                <div class="row">
                     <div class="col-sm-3">
                         <div class="category-main">
                             <img src="./assets/images/banner-4.jpeg" alt="" srcset="">
@@ -100,7 +100,7 @@
 
             </div>
             <div class="container">
-                <div class="product-row">
+                <div class="row ">
                     <div class="col-sm-3">
                         <div class="category-main">
                             <img src="./assets/images/banner-4.jpeg" alt="" srcset="">
@@ -136,7 +136,7 @@
 
             </div>
             <div class="container">
-                <div class="product-row">
+                <div class="row">
                     <div class="col-sm-3">
                         <div class="category-main">
                             <img src="./assets/images/banner-4.jpeg" alt="" srcset="">

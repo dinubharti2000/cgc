@@ -14,72 +14,74 @@
         <div id="allprojects" class="tabcontent">
             <div class="container-fluid pt-4">
                 <div class="row">
-                    <div class="col-sm-3">
-                        <a href="#">
-                            <div class="projectcontainer">
-                                <img src="./assets/images/banner-1.jpg" alt="Avatar" class="projectimage animate__animated animate__zoomIn img-fluid ">
+                    <div class="project-row">
+                        <div class="col-sm-3">
+                            <a href="#">
+                                <div class="projectcontainer">
+                                    <img src="./assets/images/banner-1.jpg" alt="Avatar" class="projectimage animate__animated animate__zoomIn img-fluid ">
 
-                                <div class="overlay1">
-                                    <div class="text1">
-                                        GLASS RAILINGS
+                                    <div class="overlay1">
+                                        <div class="text1">
+                                            GLASS RAILINGS
+                                        </div>
                                     </div>
                                 </div>
-                            </div>
-                        </a>
-                        <a href="#">
-                            <div class="projectcontainer">
-                                <img src="./assets/images/banner-1.jpg" alt="Avatar" class="projectimage animate__animated animate__zoomIn img-fluid ">
-                                <div class="overlay1">
-                                    <div class="text1">
-                                        GLASS RAILINGS
+                            </a>
+                            <a href="#">
+                                <div class="projectcontainer">
+                                    <img src="./assets/images/banner-1.jpg" alt="Avatar" class="projectimage animate__animated animate__zoomIn img-fluid ">
+                                    <div class="overlay1">
+                                        <div class="text1">
+                                            GLASS RAILINGS
+                                        </div>
                                     </div>
                                 </div>
-                            </div>
-                        </a>
-                    </div>
-                    <div class="col-sm-3">
-                        <a href="#">
-                            <div class="projectcontainer">
-                                <img src="./assets/images/banner-1.jpg" alt="Avatar" class="projectimage animate__animated animate__zoomIn img-fluid ">
-                                <div class="overlay1">
-                                    <div class="text1">
-                                        GLASS RAILINGS
+                            </a>
+                        </div>
+                        <div class="col-sm-3">
+                            <a href="#">
+                                <div class="projectcontainer">
+                                    <img src="./assets/images/banner-1.jpg" alt="Avatar" class="projectimage animate__animated animate__zoomIn img-fluid ">
+                                    <div class="overlay1">
+                                        <div class="text1">
+                                            GLASS RAILINGS
+                                        </div>
                                     </div>
                                 </div>
-                            </div>
-                        </a>
-                        <a href="#">
-                            <div class="projectcontainer">
-                                <img src="./assets/images/banner-1.jpg" alt="Avatar" class="projectimage animate__animated animate__zoomIn img-fluid ">
-                                <div class="overlay1">
-                                    <div class="text1">
-                                        GLASS RAILINGS
+                            </a>
+                            <a href="#">
+                                <div class="projectcontainer">
+                                    <img src="./assets/images/banner-1.jpg" alt="Avatar" class="projectimage animate__animated animate__zoomIn img-fluid ">
+                                    <div class="overlay1">
+                                        <div class="text1">
+                                            GLASS RAILINGS
+                                        </div>
                                     </div>
                                 </div>
-                            </div>
-                        </a>
-                    </div>
-                    <div class="col-sm-3">
-                        <a href="#">
-                            <div class="projectcontainer">
-                                <img src="./assets/images/banner-1.jpg" alt="Avatar" class="projectimage animate__animated animate__zoomIn img-fluid ">
-                                <div class="overlay1">
-                                    <div class="text1">
-                                        GLASS RAILINGS
+                            </a>
+                        </div>
+                        <div class="col-sm-3">
+                            <a href="#">
+                                <div class="projectcontainer">
+                                    <img src="./assets/images/banner-1.jpg" alt="Avatar" class="projectimage animate__animated animate__zoomIn img-fluid ">
+                                    <div class="overlay1">
+                                        <div class="text1">
+                                            GLASS RAILINGS
+                                        </div>
                                     </div>
                                 </div>
-                            </div>
-                        </a>
-                        <a href="#">
-                            <div class="projectcontainer">
-                                <img src="./assets/images/banner-1.jpg" alt="Avatar" class="projectimage animate__animated animate__zoomIn img-fluid ">
-                                <div class="overlay1">
-                                    <div class="text1">
-                                        GLASS RAILINGS
+                            </a>
+                            <a href="#">
+                                <div class="projectcontainer">
+                                    <img src="./assets/images/banner-1.jpg" alt="Avatar" class="projectimage animate__animated animate__zoomIn img-fluid ">
+                                    <div class="overlay1">
+                                        <div class="text1">
+                                            GLASS RAILINGS
+                                        </div>
                                     </div>
                                 </div>
-                            </div>
-                        </a>
+                            </a>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -88,71 +90,73 @@
         <div id="hospitality" class="tabcontent">
             <div class="container-fluid pt-4">
                 <div class="row">
-                    <div class="col-sm-3">
-                        <a href="#">
-                            <div class="projectcontainer">
-                                <img src="./assets/images/banner-6.jpg" alt="Avatar" class="projectimage animate__animated animate__zoomIn img-fluid ">
-                                <div class="overlay1">
-                                    <div class="text1">
-                                        GLASS RAILINGS
+                    <div class="project-row">
+                        <div class="col-sm-3">
+                            <a href="#">
+                                <div class="projectcontainer">
+                                    <img src="./assets/images/banner-6.jpg" alt="Avatar" class="projectimage animate__animated animate__zoomIn img-fluid ">
+                                    <div class="overlay1">
+                                        <div class="text1">
+                                            GLASS RAILINGS
+                                        </div>
                                     </div>
                                 </div>
-                            </div>
-                        </a>
-                        <a href="#">
-                            <div class="projectcontainer">
-                                <img src="./assets/images/banner-6.jpg" alt="Avatar" class="projectimage animate__animated animate__zoomIn img-fluid ">
-                                <div class="overlay1">
-                                    <div class="text1">
-                                        GLASS RAILINGS
+                            </a>
+                            <a href="#">
+                                <div class="projectcontainer">
+                                    <img src="./assets/images/banner-6.jpg" alt="Avatar" class="projectimage animate__animated animate__zoomIn img-fluid ">
+                                    <div class="overlay1">
+                                        <div class="text1">
+                                            GLASS RAILINGS
+                                        </div>
                                     </div>
                                 </div>
-                            </div>
-                        </a>
-                    </div>
-                    <div class="col-sm-3">
-                        <a href="#">
-                            <div class="projectcontainer">
-                                <img src="./assets/images/banner-6.jpg" alt="Avatar" class="projectimage animate__animated animate__zoomIn img-fluid ">
-                                <div class="overlay1">
-                                    <div class="text1">
-                                        GLASS RAILINGS
+                            </a>
+                        </div>
+                        <div class="col-sm-3">
+                            <a href="#">
+                                <div class="projectcontainer">
+                                    <img src="./assets/images/banner-6.jpg" alt="Avatar" class="projectimage animate__animated animate__zoomIn img-fluid ">
+                                    <div class="overlay1">
+                                        <div class="text1">
+                                            GLASS RAILINGS
+                                        </div>
                                     </div>
                                 </div>
-                            </div>
-                        </a>
-                        <a href="#">
-                            <div class="projectcontainer">
-                                <img src="./assets/images/banner-6.jpg" alt="Avatar" class="projectimage animate__animated animate__zoomIn img-fluid ">
-                                <div class="overlay1">
-                                    <div class="text1">
-                                        GLASS RAILINGS
+                            </a>
+                            <a href="#">
+                                <div class="projectcontainer">
+                                    <img src="./assets/images/banner-6.jpg" alt="Avatar" class="projectimage animate__animated animate__zoomIn img-fluid ">
+                                    <div class="overlay1">
+                                        <div class="text1">
+                                            GLASS RAILINGS
+                                        </div>
                                     </div>
                                 </div>
-                            </div>
-                        </a>
-                    </div>
-                    <div class="col-sm-3">
-                        <a href="#">
-                            <div class="projectcontainer">
-                                <img src="./assets/images/banner-6.jpg" alt="Avatar" class="projectimage animate__animated animate__zoomIn img-fluid ">
-                                <div class="overlay1">
-                                    <div class="text1">
-                                        GLASS RAILINGS
+                            </a>
+                        </div>
+                        <div class="col-sm-3">
+                            <a href="#">
+                                <div class="projectcontainer">
+                                    <img src="./assets/images/banner-6.jpg" alt="Avatar" class="projectimage animate__animated animate__zoomIn img-fluid ">
+                                    <div class="overlay1">
+                                        <div class="text1">
+                                            GLASS RAILINGS
+                                        </div>
                                     </div>
                                 </div>
-                            </div>
-                        </a>
-                        <a href="#">
-                            <div class="projectcontainer">
-                                <img src="./assets/images/banner-6.jpg" alt="Avatar" class="projectimage animate__animated animate__zoomIn img-fluid ">
-                                <div class="overlay1">
-                                    <div class="text1">
-                                        GLASS RAILINGS
+                            </a>
+                            <a href="#">
+                                <div class="projectcontainer">
+                                    <img src="./assets/images/banner-6.jpg" alt="Avatar" class="projectimage animate__animated animate__zoomIn img-fluid ">
+                                    <div class="overlay1">
+                                        <div class="text1">
+                                            GLASS RAILINGS
+                                        </div>
                                     </div>
                                 </div>
-                            </div>
-                        </a>
+                            </a>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -163,71 +167,73 @@
 <div id="residential" class="tabcontent">
     <div class="container-fluid pt-4">
         <div class="row">
-            <div class="col-sm-3">
-                <a href="#">
-                    <div class="projectcontainer">
-                        <img src="./assets/images/banner-3.jpg" alt="Avatar" class="projectimage animate__animated animate__zoomIn img-fluid ">
-                        <div class="overlay1">
-                            <div class="text1">
-                                GLASS RAILINGS
+            <div class="project-row">
+                <div class="col-sm-3">
+                    <a href="#">
+                        <div class="projectcontainer">
+                            <img src="./assets/images/banner-3.jpg" alt="Avatar" class="projectimage animate__animated animate__zoomIn img-fluid ">
+                            <div class="overlay1">
+                                <div class="text1">
+                                    GLASS RAILINGS
+                                </div>
                             </div>
                         </div>
-                    </div>
-                </a>
-                <a href="#">
-                    <div class="projectcontainer">
-                        <img src="./assets/images/banner-3.jpg" alt="Avatar" class="projectimage animate__animated animate__zoomIn img-fluid ">
-                        <div class="overlay1">
-                            <div class="text1">
-                                GLASS RAILINGS
+                    </a>
+                    <a href="#">
+                        <div class="projectcontainer">
+                            <img src="./assets/images/banner-3.jpg" alt="Avatar" class="projectimage animate__animated animate__zoomIn img-fluid ">
+                            <div class="overlay1">
+                                <div class="text1">
+                                    GLASS RAILINGS
+                                </div>
                             </div>
                         </div>
-                    </div>
-                </a>
-            </div>
-            <div class="col-sm-3">
-                <a href="#">
-                    <div class="projectcontainer">
-                        <img src="./assets/images/banner-3.jpg" alt="Avatar" class="projectimage animate__animated animate__zoomIn img-fluid ">
-                        <div class="overlay1">
-                            <div class="text1">
-                                GLASS RAILINGS
+                    </a>
+                </div>
+                <div class="col-sm-3">
+                    <a href="#">
+                        <div class="projectcontainer">
+                            <img src="./assets/images/banner-3.jpg" alt="Avatar" class="projectimage animate__animated animate__zoomIn img-fluid ">
+                            <div class="overlay1">
+                                <div class="text1">
+                                    GLASS RAILINGS
+                                </div>
                             </div>
                         </div>
-                    </div>
-                </a>
-                <a href="#">
-                    <div class="projectcontainer">
-                        <img src="./assets/images/banner-3.jpg" alt="Avatar" class="projectimage animate__animated animate__zoomIn img-fluid ">
-                        <div class="overlay1">
-                            <div class="text1">
-                                GLASS RAILINGS
+                    </a>
+                    <a href="#">
+                        <div class="projectcontainer">
+                            <img src="./assets/images/banner-3.jpg" alt="Avatar" class="projectimage animate__animated animate__zoomIn img-fluid ">
+                            <div class="overlay1">
+                                <div class="text1">
+                                    GLASS RAILINGS
+                                </div>
                             </div>
                         </div>
-                    </div>
-                </a>
-            </div>
-            <div class="col-sm-3">
-                <a href="#">
-                    <div class="projectcontainer">
-                        <img src="./assets/images/banner-3.jpg" alt="Avatar" class="projectimage animate__animated animate__zoomIn img-fluid ">
-                        <div class="overlay1">
-                            <div class="text1">
-                                GLASS RAILINGS
+                    </a>
+                </div>
+                <div class="col-sm-3">
+                    <a href="#">
+                        <div class="projectcontainer">
+                            <img src="./assets/images/banner-3.jpg" alt="Avatar" class="projectimage animate__animated animate__zoomIn img-fluid ">
+                            <div class="overlay1">
+                                <div class="text1">
+                                    GLASS RAILINGS
+                                </div>
                             </div>
                         </div>
-                    </div>
-                </a>
-                <a href="#">
-                    <div class="projectcontainer">
-                        <img src="./assets/images/banner-3.jpg" alt="Avatar" class="projectimage animate__animated animate__zoomIn img-fluid ">
-                        <div class="overlay1">
-                            <div class="text1">
-                                GLASS RAILINGS
+                    </a>
+                    <a href="#">
+                        <div class="projectcontainer">
+                            <img src="./assets/images/banner-3.jpg" alt="Avatar" class="projectimage animate__animated animate__zoomIn img-fluid ">
+                            <div class="overlay1">
+                                <div class="text1">
+                                    GLASS RAILINGS
+                                </div>
                             </div>
                         </div>
-                    </div>
-                </a>
+                    </a>
+                </div>
             </div>
         </div>
     </div>
@@ -235,146 +241,148 @@
 <div id="office" class="tabcontent">
     <div class="container-fluid pt-4">
         <div class="row">
-            <div class="col-sm-3">
-                <a href="#">
-                    <div class="projectcontainer">
-                        <img src="./assets/images/banner-4.jpeg" alt="Avatar" class="projectimage animate__animated animate__zoomIn img-fluid ">
-                        <div class="overlay1">
-                            <div class="text1">
-                                GLASS RAILINGS
+            <div class="project-row">
+                <div class="col-sm-3">
+                    <a href="#">
+                        <div class="projectcontainer">
+                            <img src="./assets/images/banner-4.jpeg" alt="Avatar" class="projectimage animate__animated animate__zoomIn img-fluid ">
+                            <div class="overlay1">
+                                <div class="text1">
+                                    GLASS RAILINGS
+                                </div>
                             </div>
                         </div>
-                    </div>
-                </a>
-                <a href="#">
-                    <div class="projectcontainer">
-                        <img src="./assets/images/banner-4.jpeg" alt="Avatar" class="projectimage animate__animated animate__zoomIn img-fluid ">
-                        <div class="overlay1">
-                            <div class="text1">
-                                GLASS RAILINGS
+                    </a>
+                    <a href="#">
+                        <div class="projectcontainer">
+                            <img src="./assets/images/banner-4.jpeg" alt="Avatar" class="projectimage animate__animated animate__zoomIn img-fluid ">
+                            <div class="overlay1">
+                                <div class="text1">
+                                    GLASS RAILINGS
+                                </div>
                             </div>
                         </div>
-                    </div>
-                </a>
+                    </a>
+                </div>
+                <div class="col-sm-3">
+                    <a href="#">
+                        <div class="projectcontainer">
+                            <img src="./assets/images/banner-4.jpeg" alt="Avatar" class="projectimage animate__animated animate__zoomIn img-fluid ">
+                            <div class="overlay1">
+                                <div class="text1">
+                                    GLASS RAILINGS
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                    <a href="#">
+                        <div class="projectcontainer">
+                            <img src="./assets/images/banner-4.jpeg" alt="Avatar" class="projectimage animate__animated animate__zoomIn img-fluid ">
+                            <div class="overlay1">
+                                <div class="text1">
+                                    GLASS RAILINGS
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-sm-3">
+                    <a href="#">
+                        <div class="projectcontainer">
+                            <img src="./assets/images/banner-4.jpeg" alt="Avatar" class="projectimage animate__animated animate__zoomIn img-fluid">
+                            <div class=" overlay1">
+                                <div class="text1">
+                                    GLASS RAILINGS
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                    <a href="#">
+                        <div class="projectcontainer">
+                            <img src="./assets/images/banner-4.jpeg" alt="Avatar" class="projectimage animate__animated animate__zoomIn img-fluid ">
+                            <div class="overlay1">
+                                <div class="text1">
+                                    GLASS RAILINGS
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
             </div>
-            <div class="col-sm-3">
-                <a href="#">
-                    <div class="projectcontainer">
-                        <img src="./assets/images/banner-4.jpeg" alt="Avatar" class="projectimage animate__animated animate__zoomIn img-fluid ">
-                        <div class="overlay1">
-                            <div class="text1">
-                                GLASS RAILINGS
-                            </div>
-                        </div>
-                    </div>
-                </a>
-                <a href="#">
-                    <div class="projectcontainer">
-                        <img src="./assets/images/banner-4.jpeg" alt="Avatar" class="projectimage animate__animated animate__zoomIn img-fluid ">
-                        <div class="overlay1">
-                            <div class="text1">
-                                GLASS RAILINGS
-                            </div>
-                        </div>
-                    </div>
-                </a>
-            </div>
-            <div class="col-sm-3">
-                <a href="#">
-                    <div class="projectcontainer">
-                        <img src="./assets/images/banner-4.jpeg" alt="Avatar" class="projectimage animate__animated animate__zoomIn img-fluid">
-                        <div class=" overlay1">
-                            <div class="text1">
-                                GLASS RAILINGS
-                            </div>
-                        </div>
-                    </div>
-                </a>
-                <a href="#">
-                    <div class="projectcontainer">
-                        <img src="./assets/images/banner-4.jpeg" alt="Avatar" class="projectimage animate__animated animate__zoomIn img-fluid ">
-                        <div class="overlay1">
-                            <div class="text1">
-                                GLASS RAILINGS
-                            </div>
-                        </div>
-                    </div>
-                </a>
-            </div>
-            
         </div>
     </div>
 </div>
 <div id="commercial" class="tabcontent">
     <div class="container-fluid pt-4">
         <div class="row">
-            <div class="col-sm-3">
-                <a href="#">
-                    <div class="projectcontainer">
-                        <img src="./assets/images/banner-5.jpg" alt="Avatar" class="projectimage animate__animated animate__zoomIn img-fluid ">
-                        <div class="overlay1">
-                            <div class="text1">
-                                GLASS RAILINGS
+            <div class="project-row">
+                <div class="col-sm-3">
+                    <a href="#">
+                        <div class="projectcontainer">
+                            <img src="./assets/images/banner-5.jpg" alt="Avatar" class="projectimage animate__animated animate__zoomIn img-fluid ">
+                            <div class="overlay1">
+                                <div class="text1">
+                                    GLASS RAILINGS
+                                </div>
                             </div>
                         </div>
-                    </div>
-                </a>
-                <a href="#">
-                    <div class="projectcontainer">
-                        <img src="./assets/images/banner-5.jpg" alt="Avatar" class="projectimage animate__animated animate__zoomIn img-fluid ">
-                        <div class="overlay1">
-                            <div class="text1">
-                                GLASS RAILINGS
+                    </a>
+                    <a href="#">
+                        <div class="projectcontainer">
+                            <img src="./assets/images/banner-5.jpg" alt="Avatar" class="projectimage animate__animated animate__zoomIn img-fluid ">
+                            <div class="overlay1">
+                                <div class="text1">
+                                    GLASS RAILINGS
+                                </div>
                             </div>
                         </div>
-                    </div>
-                </a>
+                    </a>
+                </div>
+                <div class="col-sm-3">
+                    <a href="#">
+                        <div class="projectcontainer">
+                            <img src="./assets/images/banner-5.jpg" alt="Avatar" class="projectimage animate__animated animate__zoomIn img-fluid ">
+                            <div class="overlay1">
+                                <div class="text1">
+                                    GLASS RAILINGS
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                    <a href="#">
+                        <div class="projectcontainer">
+                            <img src="./assets/images/banner-5.jpg" alt="Avatar" class="projectimage animate__animated animate__zoomIn img-fluid ">
+                            <div class="overlay1">
+                                <div class="text1">
+                                    GLASS RAILINGS
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-sm-3">
+                    <a href="#">
+                        <div class="projectcontainer">
+                            <img src="./assets/images/banner-5.jpg" alt="Avatar" class="projectimage animate__animated animate__zoomIn img-fluid ">
+                            <div class="overlay1">
+                                <div class="text1">
+                                    GLASS RAILINGS
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                    <a href="#">
+                        <div class="projectcontainer">
+                            <img src="./assets/images/banner-5.jpg" alt="Avatar" class="projectimage animate__animated animate__zoomIn img-fluid ">
+                            <div class="overlay1">
+                                <div class="text1">
+                                    GLASS RAILINGS
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
             </div>
-            <div class="col-sm-3">
-                <a href="#">
-                    <div class="projectcontainer">
-                        <img src="./assets/images/banner-5.jpg" alt="Avatar" class="projectimage animate__animated animate__zoomIn img-fluid ">
-                        <div class="overlay1">
-                            <div class="text1">
-                                GLASS RAILINGS
-                            </div>
-                        </div>
-                    </div>
-                </a>
-                <a href="#">
-                    <div class="projectcontainer">
-                        <img src="./assets/images/banner-5.jpg" alt="Avatar" class="projectimage animate__animated animate__zoomIn img-fluid ">
-                        <div class="overlay1">
-                            <div class="text1">
-                                GLASS RAILINGS
-                            </div>
-                        </div>
-                    </div>
-                </a>
-            </div>
-            <div class="col-sm-3">
-                <a href="#">
-                    <div class="projectcontainer">
-                        <img src="./assets/images/banner-5.jpg" alt="Avatar" class="projectimage animate__animated animate__zoomIn img-fluid ">
-                        <div class="overlay1">
-                            <div class="text1">
-                                GLASS RAILINGS
-                            </div>
-                        </div>
-                    </div>
-                </a>
-                <a href="#">
-                    <div class="projectcontainer">
-                        <img src="./assets/images/banner-5.jpg" alt="Avatar" class="projectimage animate__animated animate__zoomIn img-fluid ">
-                        <div class="overlay1">
-                            <div class="text1">
-                                GLASS RAILINGS
-                            </div>
-                        </div>
-                    </div>
-                </a>
-            </div>
-           
         </div>
     </div>
 </div>
