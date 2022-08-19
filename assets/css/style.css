@@ -381,7 +381,7 @@
   width: 100%;
 }
 
-.home-project-img img {
+.home-project-img > img {
   width: 600px;
   height: 350px;
   padding: 20px 5px;

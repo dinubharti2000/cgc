@@ -33,39 +33,45 @@
 
 <body>
     <header>
+        <!-- <div class="logo">
+                <h4>CGC</h4>
+                <p>Creative Glass Creation</p>
+            </div> -->
         <nav class="navbar navbar-expand-lg navbar-light navbar-colour navbar-main">
             <div class="container-fluid">
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
                 <a href="./index.php">
-                <div class="logo">
-                    <h4>CGC</h4>
-                    <p>Creative Glass Creation</p>
-                </div>
+                    <div class="logo">
+                        <h4>CGC</h4>
+                        <p>Creative Glass Creation</p>
+                    </div>
                 </a>
-                <div class="collapse navbar-collapse" id="navbarNav">
-                    <ul class="navbar-nav mx-auto p-10px nav-bar">
-                        <li class="nav-item">
-                            <a class="nav-link " aria-current="page" href="./index.php">Home</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="about us.php">About Us</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="./product.php">Product</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="hardware.php">Hardware</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="./project.php">Project</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="contact.php">Contact Us</a>
-                        </li>
-                    </ul>
-                </div>
+
+                <nav>
+                    <div class="collapse navbar-collapse" id="navbarNav">
+                        <ul class="navbar-nav mx-auto p-10px nav-bar">
+                            <li class="nav-item">
+                                <a class="nav-link " aria-current="page" href="./index.php">Home</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="about us.php">About Us</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="./product.php">Product</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="hardware.php">Hardware</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="./project.php">Project</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="contact.php">Contact Us</a>
+                            </li>
+                        </ul>
+                    </div>
             </div>
         </nav>
     </header>

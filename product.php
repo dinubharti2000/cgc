@@ -2,27 +2,7 @@
 
 
 <div class="product">
-    <div class="values">
-        <h1>Our Values</h1>
-        <div class="value-card">
-            <div class="value-box">
-                <h4>Responsible</h4>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas, animi.</p>
-            </div>
-            <div class="value-box">
-                <h4>Responsible</h4>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas, animi.</p>
-            </div>
-            <div class="value-box">
-                <h4>Responsible</h4>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas, animi.</p>
-            </div>
-            <div class="value-box">
-                <h4>Responsible</h4>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas, animi.</p>
-            </div>
-        </div>
-    </div>
+   
 
     <div class="category">
         <h1>Our Product</h1>
@@ -169,6 +149,28 @@
                     </div>
                 </div>
 
+            </div>
+        </div>
+    </div>
+
+    <div class="values">
+        <h1>Our Values</h1>
+        <div class="value-card">
+            <div class="value-box">
+                <h4>Responsible</h4>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas, animi.</p>
+            </div>
+            <div class="value-box">
+                <h4>Responsible</h4>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas, animi.</p>
+            </div>
+            <div class="value-box">
+                <h4>Responsible</h4>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas, animi.</p>
+            </div>
+            <div class="value-box">
+                <h4>Responsible</h4>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas, animi.</p>
             </div>
         </div>
     </div>

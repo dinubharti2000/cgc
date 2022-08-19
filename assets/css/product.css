@@ -5,11 +5,12 @@
 
 /* values section */
 .values h1{
-    font-size: 40px;
+    font-size: 48px;
     font-family: 'Montserrat',sans-serif;
     text-align: center;
     background-color: #f6f7f8;
     padding-top: 130px;
+    color: #5e7b89;
     margin-bottom: 0 !important;
 }
 
@@ -31,6 +32,7 @@
     align-items: center;
     text-align: center;
     gap: 20px;
+    box-shadow: 5px 10px 8px #888888;
 }
 
 .value-box h4{
@@ -49,14 +51,16 @@
 }
 
 .category > h1{
-    font-size: 40px;
     text-align: center;
     background-color: #f6f7f8; 
     font-family: 'Montserrat',sans-serif;
-    margin-top: 50px;
     margin-bottom: 30px;
     padding-bottom: 30px;
     padding-top: 50px;
+    font-size: 60px;
+    background: -webkit-linear-gradient(#dee1e6, #5e7b89);
+    -webkit-background-clip: text;
+   -webkit-text-fill-color: transparent;
 }
 
 .category-main h3{
@@ -110,11 +114,11 @@
   
   .main-part1:hover .overlay {
     height: 100%;
-    opacity: 0.5;
+    opacity: 0.7;
   }
   .main-part2:hover .overlay {
     height: 100%;
-    opacity: 0.5;
+    opacity: 0.7;
   }
   
   .text {
