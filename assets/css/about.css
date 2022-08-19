@@ -1,0 +1,171 @@
+.about_image{
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(../images/shopping.jpg);
+    height:500px;
+    background-size: cover;
+}
+.about_heading{
+    color: #fff;
+    transform: translateY(199px);
+    text-align: center;
+}
+.about_heading > h3{
+  font-size: 48px;
+  font-family: 'Martel', serif;
+  font-weight: 700;
+}
+.about_heading > h5{
+    font-size: 25px;
+    color: #fff;
+    font-family: 'Montserrat',sans-serif;
+}
+.about_section{
+    margin-top: 60px;
+}
+.about_bg_image > img{
+    width: 70%;
+    height: 578px;
+    box-shadow:5px 10px 8px #252525c7;
+    border-radius: 5px;
+}
+.about_bg_image_2 > img{
+    width: 45%;
+    height: 359px;
+    transform: translateY(-440px);
+    margin-left: 300px;
+    box-shadow:5px 10px 8px #2525259a;
+    border-radius: 20px;
+}
+.heading-about-more {
+    font-size:20px ;
+    color:#50aab2;
+    text-transform: uppercase;
+    
+}
+.about_info_heading2 h2{
+    font-size: 40px;
+    line-height: 58px;
+    font-family: 'Montserrat',sans-serif;
+    font-weight: 700;
+    text-transform: capitalize;
+    
+}
+.about_info_1 p{
+    font-size: 18px;
+}
+.btn-one {
+	color: rgb(7, 7, 7);
+	transition: all 0.3s;
+	position: relative;
+    background-color: #50aab2
+}
+.btn-one span {
+	transition: all 0.3s;
+}
+.btn-one::before {
+	content: '';
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	z-index: 1;
+	opacity: 0;
+	transition: all 0.3s;
+	border-top-width: 1px;
+	border-bottom-width: 1px;
+	border-top-style: solid;
+	border-bottom-style: solid;
+	border-top-color: rgba(255,255,255,0.5);
+	border-bottom-color: rgba(255,255,255,0.5);
+	transform: scale(0.1, 1);
+}
+.btn-one:hover span {
+	letter-spacing: 2px;
+}
+.btn-one:hover::before {
+	opacity: 1;	
+	transform: scale(1, 1);	
+}
+.btn-one::after {
+	content: '';
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	z-index: 1;
+	transition: all 0.3s;
+	background-color: rgba(255,255,255,0.1);
+}
+.btn-one:hover::after {
+	opacity: 0;	
+	transform: scale(0.1, 1);
+}
+/* card */
+.team-section{
+    background-color:#f6f7f8a8;
+} 
+.team-our{
+    font-size: 30px;
+    color:#50aab2 !important;
+}
+.card img{
+    width: 100%;
+    height: 300px;
+    border-radius: 15px 15px 0 0;
+}
+
+.card{
+    margin-bottom: 4% !important;
+    box-shadow: 5px 10px 8px #888888;
+    border-radius: 15px !important;
+}
+
+.team-card{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 5%;
+    justify-content: center;
+    padding-top: 3%;
+}
+
+.team-text{
+    text-align: center;
+    padding-top: 20px;
+}
+.team-text h3{
+    font-size: 40px;
+    text-transform:uppercase;
+    font-family:'Montserrat',sans-serif;
+    padding-top: 20px;
+}
+.teamcard-text {
+    padding-top: 10px;
+}
+.teamcard-text >h3{
+  font-size: 25px;
+  text-align: center;
+  text-transform: uppercase;
+  color: #50aab2;
+  font-size: 'Martel', serif;
+}
+.teamcard-text >h5{
+    text-align: center;
+    font-size: 20px;
+    color: #888888;
+    text-transform: capitalize;
+    font-family: 'Montserrat',sans-serif;
+}
+.team-icon{
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.team-icon i{
+    font-size: 20px;
+    gap: 4px;
+    color: #6e6e6e;
+}
+.team-icon i:hover{
+    color: #50aab2;
+}
