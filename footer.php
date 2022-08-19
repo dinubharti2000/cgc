@@ -1,25 +1,31 @@
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./assets/css/footer.css">
+</head>
 <footer>
     <div class="footer-container">
         <div class="footer-nav">
             <nav class="footer-navbar">
                 <ul>
                     <li>
-                        <a href="#">Home</a>
+                        <a href="./index.php">Home</a>
                     </li>
                     <li>
-                        <a href="#">About Us</a>
+                        <a href="./about us.php">About Us</a>
                     </li>
                     <li>
-                        <a href="#">Product</a>
+                        <a href="./product.php">Product</a>
                     </li>
                     <li>
-                        <a href="#">Hardware</a>
+                        <a href="./hardware.php">Hardware</a>
                     </li>
                     <li>
-                        <a href="#">Project</a>
+                        <a href="./project.php">Project</a>
                     </li>
                     <li>
-                        <a href="#">Contact Us</a>
+                        <a href="./contact.php">Contact Us</a>
                     </li>
                 </ul>
             </nav>
@@ -44,10 +50,12 @@
             </div>
             <div class="footer-logo">
                 <h3>Company</h3>
-                <div class="logo1">
+                <a href="./index.php">
+                <div class="footer-logo-icon">
                     <h4>CGC</h4>
                     <p>Creative Glass Creation</p>
                 </div>
+                </a>
             </div>
         </div>
         <div class="copyright">
@@ -58,8 +66,6 @@
 <!--bootstrap js link-->
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous">
 </script>
-
-<script src="./assets/js/product.js"></script>
 </body>
 
 </html>

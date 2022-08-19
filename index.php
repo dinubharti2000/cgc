@@ -39,7 +39,7 @@
                                         </h2>
                                         <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
                                             <div class="accordion-body">
-                                                <strong>This is the first item's accordion body.</strong> It is shown by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
+                                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam consequatur molestias quidem, repudiandae corporis nesciunt animi laborum dicta voluptates cum sequi nobis aut odio nulla vero ea eaque! Praesentium, neque iste, eos quas reprehenderit cupiditate adipisci consequuntur id repudiandae quod cum repellat. Quod accusamus dolor natus. Vero quam sint quasi sapiente rem. Sint possimus beatae enim numquam deleniti, dicta nobis ratione veniam? Ut, cum architecto. Fuga esse eligendi quasi quas amet 
                                             </div>
                                         </div>
                                     </div>
@@ -51,7 +51,7 @@
                                         </h2>
                                         <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
                                             <div class="accordion-body">
-                                                <strong>This is the second item's accordion body.</strong> It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
+                                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam consequatur molestias quidem, repudiandae corporis nesciunt animi laborum dicta voluptates cum sequi nobis aut odio nulla vero ea eaque! Praesentium, neque iste, eos quas reprehenderit cupiditate adipisci consequuntur id repudiandae quod cum repellat. Quod accusamus dolor natus. Vero quam sint quasi sapiente rem. Sint possimus beatae enim numquam deleniti, dicta nobis ratione veniam? Ut, cum architecto. Fuga esse eligendi quasi quas amet 
                                             </div>
                                         </div>
                                     </div>
@@ -63,7 +63,7 @@
                                         </h2>
                                         <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
                                             <div class="accordion-body">
-                                                <strong>This is the third item's accordion body.</strong> It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
+                                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam consequatur molestias quidem, repudiandae corporis nesciunt animi laborum dicta voluptates cum sequi nobis aut odio nulla vero ea eaque! Praesentium, neque iste, eos quas reprehenderit cupiditate adipisci consequuntur id repudiandae quod cum repellat. Quod accusamus dolor natus. Vero quam sint quasi sapiente rem. Sint possimus beatae enim numquam deleniti, dicta nobis ratione veniam? Ut, cum architecto. Fuga esse eligendi quasi quas amet 
                                             </div>
                                         </div>
                                     </div>
@@ -117,7 +117,7 @@
                     <img src="./assets/images/about1.jpg" class="card-img-top" alt="...">
                     <div class="card-body">
                         <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                        <a href="#" class="site-button-link" data-hover="Read More">Read More</a>
+                        <a href="./product.php" class="site-button-link" data-hover="Read More">Read More</a>
                     </div>
                 </div>
 
@@ -125,7 +125,7 @@
                     <img src="./assets/images/about2.jpg" class="card-img-top" alt="...">
                     <div class="card-body">
                         <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                        <a href="#" class="site-button-link" data-hover="Read More">Read More</a>
+                        <a href="./product.php" class="site-button-link" data-hover="Read More">Read More</a>
                     </div>
                 </div>
 
@@ -133,7 +133,7 @@
                     <img src="./assets/images/about3.jpg" class="card-img-top" alt="...">
                     <div class="card-body">
                         <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                        <a href="#" class="site-button-link" data-hover="Read More">Read More</a>
+                        <a href="./product.php" class="site-button-link" data-hover="Read More">Read More</a>
                     </div>
                 </div>
 
@@ -141,7 +141,7 @@
                     <img src="./assets/images/about4.jpg" class="card-img-top" alt="...">
                     <div class="card-body">
                         <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                        <a href="#" class="site-button-link" data-hover="Read More">Read More</a>
+                        <a href="./product.php" class="site-button-link" data-hover="Read More">Read More</a>
                     </div>
                 </div>
 
@@ -149,7 +149,7 @@
                     <img src="./assets/images/about5.jpg" class="card-img-top" alt="...">
                     <div class="card-body">
                         <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                        <a href="#" class="site-button-link" data-hover="Read More">Read More</a>
+                        <a href="./product.php" class="site-button-link" data-hover="Read More">Read More</a>
                     </div>
                 </div>
 
@@ -157,7 +157,7 @@
                     <img src="./assets/images/about6.jpg" class="card-img-top" alt="...">
                     <div class="card-body">
                         <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                        <a href="#" class="site-button-link" data-hover="Read More">Read More</a>
+                        <a href="./product.php" class="site-button-link" data-hover="Read More">Read More</a>
                     </div>
                 </div>
             </div>
@@ -203,38 +203,39 @@
                     </div>
                 </div>
                 <div class="hardware-button">
-                    <button class="button animate__animated animate__fadeInUp"><span>View More Hardwares <a href="#"></a></span></button>
+                    <button class="button animate__animated animate__fadeInUp"> <a href="./hardware.php"><span>View More Hardwares</span></a> </button>
                 </div>
             </div>
         </div>
     </section>
+<!-- project section -->
 
     <section>
 
-        <div class="project">
-            <div class="project-text">
+        <div class="home-project">
+            <div class=" home-project-text">
                 <span class="text-primary text-uppercase sep-line-one fs-5 fw-bold ">RECENTLY FINISHED</span>
                 <h2>Our Project</h2>
             </div>
 
             <div class="container">
                 <div class="box">
-                    <div class="project1">
-                        <div class="project-img">
+                    <div class="home-project1">
+                        <div class="home-project-img">
                             <img src="./assets/images/banner-4.jpeg" alt="" srcset="">
                         </div>
-                        <div class="project-text">
+                        <div class="home-project-text">
                             <h3>Hospitality</h3>
                             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus corrupti dolor accusamus rem veritatis itaque iusto voluptas nulla esse dolores.</p>
                         </div>
                     </div>
 
-                    <div class="project2">
-                        <div class="project-text2">
+                    <div class="home-project2">
+                        <div class="home-project-text2">
                             <h3>Offices</h3>
                             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa, repellendus magni vero recusandae autem ipsum at labore quas assumenda! Totam?</p>
                         </div>
-                        <div class="project-img2">
+                        <div class="home-project-img2">
                             <img src="./assets/images/shopping-mall-g5c9e6b102_1920.jpg" alt="" srcset="">
                         </div>
                     </div>

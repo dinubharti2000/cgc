@@ -394,7 +394,7 @@
     <div class="project-container">
         <div class="col-md-7 m-b30 project-text">
             <div>
-                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Itaque sunt optio nostrum aut nesciunt aspernatur ab facere molestias beatae distinctio.</p>
+                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Itaque sunt optio nostrum aut nesciunt aspernatur ab facere molestias beatae distinctio. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam laudantium vel assumenda ut ducimus. Rem enim eligendi culpa ea a nostrum laudantium hic perspiciatis quaerat blanditiis odio quod, ipsa eius!</p>
                 <h4>hello world</h4>
                 <h6>FOUNDER</h6>
             </div>
