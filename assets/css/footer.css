@@ -1,6 +1,6 @@
-footer {
+/* footer {
     margin-top: 70px;
-  }
+  } */
   
   .footer-info {
     background-color: #f6f7f8;
@@ -38,7 +38,9 @@ footer {
     font-size: 18px;
     font-weight: 400;
   }
-  
+  .footer-navbar>ul>li>a:hover{
+    color:#03989e;
+  }
   .footer-info {
     padding-top: 50px;
     text-align: center;
@@ -159,4 +161,17 @@ footer {
     padding-top: 12px;
     font-size: 12px;
     text-transform: uppercase;
+  }
+
+
+
+  @media screen and (max-width:768px) {
+    .footer-info{
+      gap: 70px ;
+    }
+  }
+  @media screen and (max-width:468px) {
+    .footer-info{
+      gap: 15px ;
+    }
   }

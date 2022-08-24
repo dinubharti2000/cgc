@@ -1,7 +1,16 @@
 <?php include "header.php" ?>
 
 <div class="project">
-    <h1>Our Project</h1>
+    <div class="project-main">
+        <div class="project_image">
+            <div class="container">
+                <div class="project_heading">
+                    <h3 class="animate__animated animate__zoomIn">Project</h3>
+                    <h5>Our Project</h5>
+                </div>
+            </div>
+        </div>
+    </div>
     <div>
         <div class="tab title-tab">
             <button class="tablinks btn btn-outline-warning px-5 " onclick="openCity(event, 'allprojects')" id="defaultOpen">All Projects</button>
@@ -15,7 +24,7 @@
             <div class="container-fluid pt-4">
                 <div class="row">
                     <div class="project-row">
-                        <div class="col-sm-3">
+                        <div class="col-sm-3 project-">
                             <a href="#">
                                 <div class="projectcontainer">
                                     <img src="./assets/images/banner-1.jpg" alt="Avatar" class="projectimage animate__animated animate__zoomIn img-fluid ">
@@ -38,7 +47,7 @@
                                 </div>
                             </a>
                         </div>
-                        <div class="col-sm-3">
+                        <div class="col-sm-3 project-col">
                             <a href="#">
                                 <div class="projectcontainer">
                                     <img src="./assets/images/banner-1.jpg" alt="Avatar" class="projectimage animate__animated animate__zoomIn img-fluid ">
@@ -60,7 +69,7 @@
                                 </div>
                             </a>
                         </div>
-                        <div class="col-sm-3">
+                        <div class="col-sm-3 project-col">
                             <a href="#">
                                 <div class="projectcontainer">
                                     <img src="./assets/images/banner-1.jpg" alt="Avatar" class="projectimage animate__animated animate__zoomIn img-fluid ">
@@ -91,7 +100,7 @@
             <div class="container-fluid pt-4">
                 <div class="row">
                     <div class="project-row">
-                        <div class="col-sm-3">
+                        <div class="col-sm-3 project-col">
                             <a href="#">
                                 <div class="projectcontainer">
                                     <img src="./assets/images/banner-6.jpg" alt="Avatar" class="projectimage animate__animated animate__zoomIn img-fluid ">
@@ -113,7 +122,7 @@
                                 </div>
                             </a>
                         </div>
-                        <div class="col-sm-3">
+                        <div class="col-sm-3 project-col">
                             <a href="#">
                                 <div class="projectcontainer">
                                     <img src="./assets/images/banner-6.jpg" alt="Avatar" class="projectimage animate__animated animate__zoomIn img-fluid ">
@@ -135,7 +144,7 @@
                                 </div>
                             </a>
                         </div>
-                        <div class="col-sm-3">
+                        <div class="col-sm-3 project-col">
                             <a href="#">
                                 <div class="projectcontainer">
                                     <img src="./assets/images/banner-6.jpg" alt="Avatar" class="projectimage animate__animated animate__zoomIn img-fluid ">
@@ -168,7 +177,7 @@
     <div class="container-fluid pt-4">
         <div class="row">
             <div class="project-row">
-                <div class="col-sm-3">
+                <div class="col-sm-3 project-col">
                     <a href="#">
                         <div class="projectcontainer">
                             <img src="./assets/images/banner-3.jpg" alt="Avatar" class="projectimage animate__animated animate__zoomIn img-fluid ">
@@ -190,7 +199,7 @@
                         </div>
                     </a>
                 </div>
-                <div class="col-sm-3">
+                <div class="col-sm-3 project-col">
                     <a href="#">
                         <div class="projectcontainer">
                             <img src="./assets/images/banner-3.jpg" alt="Avatar" class="projectimage animate__animated animate__zoomIn img-fluid ">
@@ -212,7 +221,7 @@
                         </div>
                     </a>
                 </div>
-                <div class="col-sm-3">
+                <div class="col-sm-3 project-col">
                     <a href="#">
                         <div class="projectcontainer">
                             <img src="./assets/images/banner-3.jpg" alt="Avatar" class="projectimage animate__animated animate__zoomIn img-fluid ">
@@ -242,7 +251,7 @@
     <div class="container-fluid pt-4">
         <div class="row">
             <div class="project-row">
-                <div class="col-sm-3">
+                <div class="col-sm-3 project-col">
                     <a href="#">
                         <div class="projectcontainer">
                             <img src="./assets/images/banner-4.jpeg" alt="Avatar" class="projectimage animate__animated animate__zoomIn img-fluid ">
@@ -264,7 +273,7 @@
                         </div>
                     </a>
                 </div>
-                <div class="col-sm-3">
+                <div class="col-sm-3 project-col">
                     <a href="#">
                         <div class="projectcontainer">
                             <img src="./assets/images/banner-4.jpeg" alt="Avatar" class="projectimage animate__animated animate__zoomIn img-fluid ">
@@ -286,7 +295,7 @@
                         </div>
                     </a>
                 </div>
-                <div class="col-sm-3">
+                <div class="col-sm-3 project-col">
                     <a href="#">
                         <div class="projectcontainer">
                             <img src="./assets/images/banner-4.jpeg" alt="Avatar" class="projectimage animate__animated animate__zoomIn img-fluid">
@@ -316,7 +325,7 @@
     <div class="container-fluid pt-4">
         <div class="row">
             <div class="project-row">
-                <div class="col-sm-3">
+                <div class="col-sm-3 project-col">
                     <a href="#">
                         <div class="projectcontainer">
                             <img src="./assets/images/banner-5.jpg" alt="Avatar" class="projectimage animate__animated animate__zoomIn img-fluid ">
@@ -338,7 +347,7 @@
                         </div>
                     </a>
                 </div>
-                <div class="col-sm-3">
+                <div class="col-sm-3 project-col">
                     <a href="#">
                         <div class="projectcontainer">
                             <img src="./assets/images/banner-5.jpg" alt="Avatar" class="projectimage animate__animated animate__zoomIn img-fluid ">
@@ -360,7 +369,7 @@
                         </div>
                     </a>
                 </div>
-                <div class="col-sm-3">
+                <div class="col-sm-3 project-col">
                     <a href="#">
                         <div class="projectcontainer">
                             <img src="./assets/images/banner-5.jpg" alt="Avatar" class="projectimage animate__animated animate__zoomIn img-fluid ">
@@ -391,16 +400,17 @@
 
 
 <div>
+    <div class="container">
     <div class="project-container">
-        <div class="col-md-7 m-b30 project-text">
-            <div>
+        <div class="col-md-6 m-b30 project-text">
+            <div class="project-text-part">
                 <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Itaque sunt optio nostrum aut nesciunt aspernatur ab facere molestias beatae distinctio. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam laudantium vel assumenda ut ducimus. Rem enim eligendi culpa ea a nostrum laudantium hic perspiciatis quaerat blanditiis odio quod, ipsa eius!</p>
                 <h4>hello world</h4>
                 <h6>FOUNDER</h6>
             </div>
 
         </div>
-        <div class=" col-md-5 project-img">
+        <div class=" col-md-6 project-img">
             <img src="./assets/images/banner8.jpg" alt="" srcset="">
             <div class="count-section-top">
 
@@ -417,6 +427,7 @@
                 <span class="counter-heading" style="font-size: 20px;">Projects Done</span>
             </div>
         </div>
+    </div>
     </div>
 </div>
 

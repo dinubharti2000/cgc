@@ -15,7 +15,7 @@
     <div class="contact-map">
         <div class="contact-map-1">
             <div class="container">
-                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d30149.795884362153!2d72.83315320762165!3d19.163533757923105!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7b6e571c29e33%3A0x7536c07aeb1efa84!2sCreative%20Glass!5e0!3m2!1sen!2sin!4v1660815369995!5m2!1sen!2sin" width="90%" height="450" style="border:0;" allowfullscreen="true" ></iframe>
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d30149.795884362153!2d72.83315320762165!3d19.163533757923105!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7b6e571c29e33%3A0x7536c07aeb1efa84!2sCreative%20Glass!5e0!3m2!1sen!2sin!4v1660815369995!5m2!1sen!2sin" width="100%" height="450" style="border:0;" allowfullscreen="true" ></iframe>
             </div>
         </div>
 

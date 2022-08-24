@@ -13,34 +13,41 @@
 
 <body>
     <section>
-        <div class="main">
-            <div class="hardware-main-heading">
-                <h3>Our Hardware</h3>
+        <div class="hardware-main">
+            <div class="hardware_image">
+                <div class="container">
+                    <div class="hardware_heading">
+                        <h3 class="animate__animated animate__zoomIn">Hardware</h3>
+                        <h5>Our Hardwares</h5>
+                    </div>
+                </div>
             </div>
+        </div>
+        <div class="hardware">
             <div class="container pt-5">
                 <div class="row">
                     <div class="hardware-card">
                         <div data-aos="zoom-in-down">
                             <div class="hard-ware" style="width: 22rem;">
-                                <img src="./assets/images//banner2.jpg" class="card-img-top" alt="...">
+                                <img src="./assets/images/hardwares images/img1.jpg" class="card-img-top" alt="...">
                                 <div class="hard-ware-text">
-                                    <p class="hard-p">LED</p>
+                                    <p class="hard-p">Patch Fittings</p>
                                 </div>
                             </div>
                         </div>
                         <div data-aos="zoom-in-down">
                             <div class="hard-ware" style="width: 22rem;">
-                                <img src="./assets/images/banner8.jpg" class="card-img-top" alt="...">
+                                <img src="./assets/images/hardwares images/img2.png" class="card-img-top" alt="...">
                                 <div class="hard-ware-text">
-                                    <p class="hard-p">LED</p>
+                                    <p class="hard-p">Patch Look Series</p>
                                 </div>
                             </div>
                         </div>
                         <div data-aos="zoom-in-down">
                             <div class="hard-ware" style="width: 22rem;">
-                                <img src="./assets/images/about1.jpg" class="card-img-top" alt="...">
+                                <img src="./assets/images/hardwares images/img3.jpg" class="card-img-top" alt="...">
                                 <div class="hard-ware-text">
-                                    <p class="hard-p">LED</p>
+                                    <p class="hard-p">Floor Springs Series</p>
                                 </div>
                             </div>
                         </div>
@@ -53,25 +60,25 @@
                     <div class="hardware-card">
                         <div data-aos="zoom-out-up" data-aos-easing="ease-in-back" data-aos-delay="300">
                             <div class="hard-ware" style="width: 22rem;">
-                                <img src="./assets/images/about1.jpg" class="card-img-top" alt="...">
+                                <img src="./assets/images/hardwares images/img4.jpg" class="card-img-top" alt="...">
                                 <div class="hard-ware-text">
-                                    <p class="hard-p">LED</p>
+                                    <p class="hard-p">Hydraulic Hinges</p>
                                 </div>
                             </div>
                         </div>
-                        <div data-aos="zoom-out-up"  data-aos-easing="ease-in-back" data-aos-delay="300">
+                        <div data-aos="zoom-out-up" data-aos-easing="ease-in-back" data-aos-delay="300">
                             <div class="hard-ware" style="width: 22rem;">
-                                <img src="./assets/images/about1.jpg" class="card-img-top" alt="...">
+                                <img src="./assets/images/hardwares images/img5.jpg" class="card-img-top" alt="...">
                                 <div class="hard-ware-text">
-                                    <p class="hard-p">LED</p>
+                                    <p class="hard-p">Shower Rod Connectors</p>
                                 </div>
                             </div>
                         </div>
-                        <div data-aos="zoom-out-up"  data-aos-easing="ease-in-back" data-aos-delay="300">
+                        <div data-aos="zoom-out-up" data-aos-easing="ease-in-back" data-aos-delay="300">
                             <div class="hard-ware" style="width: 22rem;">
-                                <img src="./assets/images/about1.jpg" class="card-img-top" alt="...">
+                                <img src="./assets/images/hardwares images/img6.jpg" class="card-img-top" alt="...">
                                 <div class="hard-ware-text">
-                                    <p class="hard-p">LED</p>
+                                    <p class="hard-p">Glass Connectors</p>
                                 </div>
                             </div>
                         </div>
@@ -84,25 +91,25 @@
                     <div class="hardware-card">
                         <div data-aos="zoom-in-down">
                             <div class="hard-ware" style="width: 22rem;">
-                                <img src="./assets/images/about1.jpg" class="card-img-top" alt="...">
+                                <img src="./assets/images/hardwares images/img7.jpg" class="card-img-top" alt="...">
                                 <div class="hard-ware-text">
-                                    <p class="hard-p">LED</p>
+                                    <p class="hard-p">Shower Hinges</p>
                                 </div>
                             </div>
                         </div>
                         <div data-aos="zoom-in-down">
                             <div class="hard-ware" style="width: 22rem;">
-                                <img src="./assets/images/about1.jpg" class="card-img-top" alt="...">
+                                <img src="./assets/images/hardwares images/img8.jpg" class="card-img-top" alt="...">
                                 <div class="hard-ware-text">
-                                    <p class="hard-p">LED</p>
+                                    <p class="hard-p">PVC Seals</p>
                                 </div>
                             </div>
                         </div>
                         <div data-aos="zoom-in-down">
                             <div class="hard-ware" style="width: 22rem;">
-                                <img src="./assets/images/about1.jpg" class="card-img-top" alt="...">
+                                <img src="./assets/images/hardwares images/img9.jpg" class="card-img-top" alt="...">
                                 <div class="hard-ware-text">
-                                    <p class="hard-p">LED</p>
+                                    <p class="hard-p">Glass Handle Series</p>
                                 </div>
                             </div>
                         </div>
@@ -110,7 +117,6 @@
                 </div>
             </div>
         </div>
-        
     </section>
 </body>
 <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>

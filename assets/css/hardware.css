@@ -1,19 +1,33 @@
+.hardware{
+  background-color: #4a4b4b;
+  padding-bottom: 50px;
 
-.main{
-background-color: white;
-padding-bottom: 80px;
 }
-.hardware-main-heading > h3{
+.hardware-main{
+  position: relative;
+  z-index: -1;
+}
+.hardware_image{
+  background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(../images/banner-10\ \(2\).jpg);
+  height:400px;
+  background-size:cover;
+  background-position: center;
+}
+.hardware_heading{
+  color: #fff;
+  transform: translateY(117px);
+  text-align: center;
+}
+.hardware_heading > h3{
+  font-size: 48px;
+  font-family: 'Martel', serif;
+  font-weight: 700;
+}
+.hardware_heading > h5{
+    font-size: 25px;
+    color: #fff;
     font-family: 'Montserrat',sans-serif;
-    padding-top: 120px;
-    padding-bottom: 50px;
-    text-align: center;
-    font-size: 60px;
-    background: -webkit-linear-gradient(#dee1e6, #5e7b89);
-    -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
 }
-
 .hardware-card-animation {
     display: flex;
     gap: 60px;

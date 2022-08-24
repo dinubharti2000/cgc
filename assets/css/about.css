@@ -28,12 +28,14 @@
     border-radius: 5px;
 }
 .about_bg_image_2 > img{
-    width: 45%;
-    height: 359px;
-    transform: translateY(-440px);
+    width: 17%;
+    height: 377px;
+    margin-top: -464px;
+    /* transform: translateY(-440px); */
     margin-left: 300px;
     box-shadow:5px 10px 8px #2525259a;
     border-radius: 20px;
+    position: absolute;
 }
 .heading-about-more {
     font-size:20px ;
@@ -101,6 +103,42 @@
 	opacity: 0;	
 	transform: scale(0.1, 1);
 }
+/* services */
+.about-services{
+    margin-top: 50px;
+    padding: 10px;
+    background-color:#4a4b4b;
+    padding-bottom: 30px;
+}
+.all-services{
+    display: flex;
+    padding-top: 50px;
+}
+.services-info{
+    text-align: center;
+    color: #fff;
+}
+.services-info > i{
+    font-size: 55px;
+    padding: 10px;
+}
+.services-info > h5{
+    font-size: 45px;
+    font-weight: 500;
+    font-family:'Raleway', sans-serif;
+}
+.services-info > p{
+    font-size: 22px;
+}
+.services-info > i:hover{
+    color: #50aab2;
+}
+.services-info > h5:hover{
+    color: #50aab2;
+}
+.services-info > p:hover{
+    color: #50aab2;
+}
 /* card */
 .team-section{
     background-color:#f6f7f8a8;
@@ -117,10 +155,12 @@
 
 .card{
     margin-bottom: 4% !important;
-    box-shadow: 5px 10px 8px #888888;
+    box-shadow: 5px 10px 8px #0e0d0d;
     border-radius: 15px !important;
 }
-
+.testimonial-about-card{
+    box-shadow: 5px 10px 8px #0e0d0d;
+}
 .team-card{
     display: flex;
     flex-wrap: wrap;
@@ -142,6 +182,12 @@
 .teamcard-text {
     padding-top: 10px;
 }
+.testimonial_card-1{
+
+    width: 920px;
+    gap: 20px;
+  }
+  
 .teamcard-text >h3{
   font-size: 25px;
   text-align: center;
@@ -169,3 +215,42 @@
 .team-icon i:hover{
     color: #50aab2;
 }
+
+.testimonial{
+    background-color: #4a4b4b;
+    padding-bottom: 60px;
+    margin-bottom: 0;
+  
+  }
+  .testimonial-title > h1{
+    color: rgba(48, 56, 63, 0.24);
+    font-size: 128px;
+    font-weight: 700;
+    text-transform: uppercase;
+  }
+  .testimonial-heading{
+    color: white;
+  }
+  .testimonial-heading > h5{
+    letter-spacing: 2px;
+    text-transform: uppercase;
+  }
+  
+  .testimonial-card-1{
+    padding-top: 110px;
+  }
+  
+  .testimonial-card-2{
+    gap: 20px;
+  
+  }
+  
+  .testimonial-card{
+    display: flex;
+    gap: 60px;
+  
+  }
+  
+  .blockquote-footer > i{
+    padding-right: 10px;
+  }
